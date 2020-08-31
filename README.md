@@ -1,2 +1,0 @@
-# doctrial
-Experiments with documentation on GitHub.
